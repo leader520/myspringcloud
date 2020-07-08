@@ -17,6 +17,7 @@
         <module>hystrix</module>
         <module>feign</module>
         <module>nativeconfigserver</module>
+        <module>configserver</module>
     </modules>
 
     <parent>
