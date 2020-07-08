@@ -16,8 +16,8 @@
         <module>zuul</module>
         <module>hystrix</module>
         <module>feign</module>
-        <module>nativeconfigserver</module>
         <module>configserver</module>
+        <module>configclient</module>
     </modules>
 
     <parent>
